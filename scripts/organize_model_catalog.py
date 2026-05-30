@@ -12,6 +12,16 @@ INTERNAL_MODELS_PATH = ROOT / "processed" / "screening_aggregate" / "combined_mo
 COMPARE_PATH = ROOT / "processed" / "api_compare" / "api_internal_model_matches.json"
 OUTPUT_DIR = ROOT / "processed" / "organized_catalog"
 
+
+def _load_catalog_fallback() -> dict:
+    """Rebuild internal model payload from existing catalog when aggregate is missing."""
+    models = []
+    for name in ("internal_official_slots.json", "internal_official_family_related.json", "internal_experimental.json"):
+        path = OUTPUT_DIR / name
+        if path.exists():
+            models.extend(json.loads(path.read_text(encoding="utf-8")))
+    return {"models": models}
+
 MAINLINE_RE = re.compile(r"^mainline\s+([^:]+):\s*\(([^)]*)\)$", re.IGNORECASE)
 
 
@@ -66,7 +76,7 @@ def looks_like_family_related(name: str, official_family_index: dict[str, set[st
 
 def main() -> None:
     api_payload = load_json(API_MODELS_PATH)
-    internal_payload = load_json(INTERNAL_MODELS_PATH)
+    internal_payload = load_json(INTERNAL_MODELS_PATH) if INTERNAL_MODELS_PATH.exists() else _load_catalog_fallback()
     compare_payload = load_json(COMPARE_PATH)
 
     api_ids = sorted(

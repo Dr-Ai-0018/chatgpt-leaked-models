@@ -9,6 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 API_PATH = ROOT / "processed" / "api_models" / "models_response.json"
 INTERNAL_PATH = ROOT / "processed" / "screening_aggregate" / "combined_models.json"
+CATALOG_DIR = ROOT / "processed" / "organized_catalog"
 OUTPUT_DIR = ROOT / "processed" / "api_compare"
 
 MAINLINE_RE = re.compile(r"^mainline\s+([^:]+):\s*\(([^)]*)\)$", re.IGNORECASE)
@@ -94,9 +95,21 @@ def load_api_ids() -> list[str]:
     )
 
 
+def _load_catalog_fallback() -> list[dict]:
+    """Rebuild internal model list from organized_catalog when aggregate is missing."""
+    models = []
+    for name in ("internal_official_slots.json", "internal_official_family_related.json", "internal_experimental.json"):
+        path = CATALOG_DIR / name
+        if path.exists():
+            models.extend(json.loads(path.read_text(encoding="utf-8")))
+    return models
+
+
 def load_internal_models() -> list[dict]:
-    payload = json.loads(INTERNAL_PATH.read_text(encoding="utf-8"))
-    return [item for item in payload["models"] if looks_like_real_model_name(item["name"])]
+    if INTERNAL_PATH.exists():
+        payload = json.loads(INTERNAL_PATH.read_text(encoding="utf-8"))
+        return [item for item in payload["models"] if looks_like_real_model_name(item["name"])]
+    return [item for item in _load_catalog_fallback() if looks_like_real_model_name(item.get("name", ""))]
 
 
 def compare() -> dict:
