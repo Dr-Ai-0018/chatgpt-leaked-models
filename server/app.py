@@ -390,11 +390,12 @@ def api_insights():
     return jsonify(_build_insights())
 
 
-def main() -> None:
-    threading.Thread(target=_scheduler_loop, daemon=True).start()
-    print(f"=> GPT 内测模型情报终端  http://127.0.0.1:{DEFAULT_PORT}")
-    app.run(host="0.0.0.0", port=DEFAULT_PORT, debug=False, use_reloader=False)
+# Start the daily fetch scheduler as a daemon thread.
+# Works both under `python app.py` and gunicorn (module import).
+# The _refresh_lock prevents overlapping runs across workers.
+threading.Thread(target=_scheduler_loop, daemon=True).start()
 
 
 if __name__ == "__main__":
-    main()
+    print(f"=> GPT 内测模型情报终端  http://127.0.0.1:{DEFAULT_PORT}")
+    app.run(host="0.0.0.0", port=DEFAULT_PORT, debug=False, use_reloader=False)
