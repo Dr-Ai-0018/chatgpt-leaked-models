@@ -1,0 +1,269 @@
+[
+  {
+    "api_id": "babbage-002"
+  },
+  {
+    "api_id": "chat-latest"
+  },
+  {
+    "api_id": "chatgpt-image-latest"
+  },
+  {
+    "api_id": "gpt-3.5-turbo-0125"
+  },
+  {
+    "api_id": "gpt-3.5-turbo-1106"
+  },
+  {
+    "api_id": "gpt-3.5-turbo-16k"
+  },
+  {
+    "api_id": "gpt-3.5-turbo-instruct"
+  },
+  {
+    "api_id": "gpt-3.5-turbo-instruct-0914"
+  },
+  {
+    "api_id": "gpt-4-0613"
+  },
+  {
+    "api_id": "gpt-4-turbo"
+  },
+  {
+    "api_id": "gpt-4-turbo-2024-04-09"
+  },
+  {
+    "api_id": "gpt-4.1"
+  },
+  {
+    "api_id": "gpt-4.1-2025-04-14"
+  },
+  {
+    "api_id": "gpt-4.1-mini"
+  },
+  {
+    "api_id": "gpt-4.1-mini-2025-04-14"
+  },
+  {
+    "api_id": "gpt-4.1-nano"
+  },
+  {
+    "api_id": "gpt-4.1-nano-2025-04-14"
+  },
+  {
+    "api_id": "gpt-4o-2024-05-13"
+  },
+  {
+    "api_id": "gpt-4o-2024-08-06"
+  },
+  {
+    "api_id": "gpt-4o-2024-11-20"
+  },
+  {
+    "api_id": "gpt-4o-mini-2024-07-18"
+  },
+  {
+    "api_id": "gpt-4o-mini-search-preview-2025-03-11"
+  },
+  {
+    "api_id": "gpt-4o-mini-transcribe-2025-03-20"
+  },
+  {
+    "api_id": "gpt-4o-mini-transcribe-2025-12-15"
+  },
+  {
+    "api_id": "gpt-4o-mini-tts-2025-03-20"
+  },
+  {
+    "api_id": "gpt-4o-mini-tts-2025-12-15"
+  },
+  {
+    "api_id": "gpt-4o-search-preview-2025-03-11"
+  },
+  {
+    "api_id": "gpt-4o-transcribe"
+  },
+  {
+    "api_id": "gpt-4o-transcribe-diarize"
+  },
+  {
+    "api_id": "gpt-5-2025-08-07"
+  },
+  {
+    "api_id": "gpt-5-mini-2025-08-07"
+  },
+  {
+    "api_id": "gpt-5-nano"
+  },
+  {
+    "api_id": "gpt-5-nano-2025-08-07"
+  },
+  {
+    "api_id": "gpt-5-pro-2025-10-06"
+  },
+  {
+    "api_id": "gpt-5-search-api-2025-10-14"
+  },
+  {
+    "api_id": "gpt-5.1"
+  },
+  {
+    "api_id": "gpt-5.1-2025-11-13"
+  },
+  {
+    "api_id": "gpt-5.1-chat-latest"
+  },
+  {
+    "api_id": "gpt-5.1-codex-max"
+  },
+  {
+    "api_id": "gpt-5.1-codex-mini"
+  },
+  {
+    "api_id": "gpt-5.2-2025-12-11"
+  },
+  {
+    "api_id": "gpt-5.2-chat-latest"
+  },
+  {
+    "api_id": "gpt-5.2-pro-2025-12-11"
+  },
+  {
+    "api_id": "gpt-5.3-chat-latest"
+  },
+  {
+    "api_id": "gpt-5.4-2026-03-05"
+  },
+  {
+    "api_id": "gpt-5.4-mini-2026-03-17"
+  },
+  {
+    "api_id": "gpt-5.4-nano-2026-03-17"
+  },
+  {
+    "api_id": "gpt-5.4-pro-2026-03-05"
+  },
+  {
+    "api_id": "gpt-5.5-2026-04-23"
+  },
+  {
+    "api_id": "gpt-5.5-pro-2026-04-23"
+  },
+  {
+    "api_id": "gpt-audio"
+  },
+  {
+    "api_id": "gpt-audio-1.5"
+  },
+  {
+    "api_id": "gpt-audio-2025-08-28"
+  },
+  {
+    "api_id": "gpt-audio-mini"
+  },
+  {
+    "api_id": "gpt-audio-mini-2025-10-06"
+  },
+  {
+    "api_id": "gpt-audio-mini-2025-12-15"
+  },
+  {
+    "api_id": "gpt-image-1"
+  },
+  {
+    "api_id": "gpt-image-1-mini"
+  },
+  {
+    "api_id": "gpt-image-1.5"
+  },
+  {
+    "api_id": "gpt-image-2"
+  },
+  {
+    "api_id": "gpt-image-2-2026-04-21"
+  },
+  {
+    "api_id": "gpt-realtime"
+  },
+  {
+    "api_id": "gpt-realtime-1.5"
+  },
+  {
+    "api_id": "gpt-realtime-2"
+  },
+  {
+    "api_id": "gpt-realtime-2025-08-28"
+  },
+  {
+    "api_id": "gpt-realtime-mini"
+  },
+  {
+    "api_id": "gpt-realtime-mini-2025-10-06"
+  },
+  {
+    "api_id": "gpt-realtime-mini-2025-12-15"
+  },
+  {
+    "api_id": "gpt-realtime-translate"
+  },
+  {
+    "api_id": "gpt-realtime-whisper"
+  },
+  {
+    "api_id": "o1-2024-12-17"
+  },
+  {
+    "api_id": "o1-pro-2025-03-19"
+  },
+  {
+    "api_id": "o3-2025-04-16"
+  },
+  {
+    "api_id": "o3-mini"
+  },
+  {
+    "api_id": "o3-mini-2025-01-31"
+  },
+  {
+    "api_id": "o4-mini-2025-04-16"
+  },
+  {
+    "api_id": "o4-mini-deep-research-2025-06-26"
+  },
+  {
+    "api_id": "omni-moderation-2024-09-26"
+  },
+  {
+    "api_id": "omni-moderation-latest"
+  },
+  {
+    "api_id": "sora-2"
+  },
+  {
+    "api_id": "sora-2-pro"
+  },
+  {
+    "api_id": "text-embedding-3-large"
+  },
+  {
+    "api_id": "text-embedding-3-small"
+  },
+  {
+    "api_id": "text-embedding-ada-002"
+  },
+  {
+    "api_id": "tts-1"
+  },
+  {
+    "api_id": "tts-1-1106"
+  },
+  {
+    "api_id": "tts-1-hd"
+  },
+  {
+    "api_id": "tts-1-hd-1106"
+  },
+  {
+    "api_id": "whisper-1"
+  }
+]

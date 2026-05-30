@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-05-29T12:50:14.731287+00:00",
+  "counts": {
+    "official_api_models": 120,
+    "internal_official_slots": 42,
+    "internal_official_family_related": 325,
+    "internal_experimental": 1271,
+    "api_without_internal_signal": 89
+  }
+}

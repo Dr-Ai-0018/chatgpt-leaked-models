@@ -1,0 +1,135 @@
+# API Match Tiers
+
+- Generated at: `2026-05-29T12:50:14.311735+00:00`
+- High confidence: `8`
+- Weak related: `23`
+- No signal: `89`
+
+## High Confidence
+
+- `gpt-4` -> `mainline gpt-4: (biz_no_browse_with_canvas)` (mainline_base)
+- `gpt-4o` -> `GPT-4o` (exact_name)
+- `gpt-4o-mini` -> `mainline gpt-4o-mini: (biz_no_browse_with_canvas)` (mainline_base)
+- `gpt-5.2` -> `GPT-5.2` (exact_name)
+- `gpt-5.2-codex` -> `GPT 5.2 codex` (normalized_alias)
+- `gpt-5.5` -> `GPT-5.5` (exact_name)
+- `o3` -> `mainline o3: (biz_no_browse_with_canvas)` (mainline_base)
+- `o4-mini` -> `mainline o4-mini: (biz_no_browse_with_canvas)` (mainline_base)
+
+## Weak Related
+
+- `davinci-002` -> `mainline text-davinci-002-render-sha: (biz_no_browse)` (api_id_substring)
+- `gpt-3.5-turbo` -> `GPT-5.3` (token_overlap)
+- `gpt-4o-mini-search-preview` -> `mainline gpt-4o-mini: (no_auth_search)` (token_overlap)
+- `gpt-4o-mini-transcribe` -> `mainline gpt-4o-mini: (biz_no_browse_with_canvas)` (token_overlap)
+- `gpt-4o-mini-tts` -> `mainline gpt-4o-mini: (biz_no_browse_with_canvas)` (token_overlap)
+- `gpt-4o-search-preview` -> `mainline gpt-4o-mini: (no_auth_search)` (token_overlap)
+- `gpt-5` -> `GPT-5.3` (api_id_substring)
+- `gpt-5-chat-latest` -> `mainline gpt-5-chat-safety: (no_auth_search)` (token_overlap)
+- `gpt-5-codex` -> `GPT 5.2 codex` (token_overlap)
+- `gpt-5-mini` -> `gpt-5-mini for cocoon` (api_id_substring)
+- `gpt-5-pro` -> `GPT-5.5 Pro Artifacts` (token_overlap)
+- `gpt-5-search-api` -> `mainline gpt-5-chat-safety: (no_auth_search)` (token_overlap)
+- `gpt-5.1-codex` -> `GPT 5.2 codex` (token_overlap)
+- `gpt-5.2-pro` -> `Deep Research App (GPT 5.2 Thinking)` (token_overlap)
+- `gpt-5.3-codex` -> `GPT-5.3` (token_overlap)
+- `gpt-5.4` -> `campaign:gpt_54_thinking_j5_vs_53_iid_paid_04pct:b_gpt_5_4_thinking` (token_overlap)
+- `gpt-5.4-mini` -> `campaign:gpt_54_thinking_j5_vs_53_iid_paid_04pct:b_gpt_5_4_thinking` (token_overlap)
+- `gpt-5.4-nano` -> `campaign:gpt_54_thinking_j5_vs_53_iid_paid_04pct:b_gpt_5_4_thinking` (token_overlap)
+- `gpt-5.4-pro` -> `5.4 current_gpt5_4_pro_pro Artifacts` (token_overlap)
+- `gpt-5.5-pro` -> `GPT-5.5 Pro Artifacts` (token_overlap)
+- `o1` -> `campaign:5p3_moresearch_nosearch_tolo1_s1450_0227:b_no_search` (api_id_substring)
+- `o1-pro` -> `mainline o1-preview: (pro)` (token_overlap)
+- `o4-mini-deep-research` -> `Deep Research Mini (Mar 24)` (token_overlap)
+
+## No Signal
+
+- `babbage-002`
+- `chat-latest`
+- `chatgpt-image-latest`
+- `gpt-3.5-turbo-0125`
+- `gpt-3.5-turbo-1106`
+- `gpt-3.5-turbo-16k`
+- `gpt-3.5-turbo-instruct`
+- `gpt-3.5-turbo-instruct-0914`
+- `gpt-4-0613`
+- `gpt-4-turbo`
+- `gpt-4-turbo-2024-04-09`
+- `gpt-4.1`
+- `gpt-4.1-2025-04-14`
+- `gpt-4.1-mini`
+- `gpt-4.1-mini-2025-04-14`
+- `gpt-4.1-nano`
+- `gpt-4.1-nano-2025-04-14`
+- `gpt-4o-2024-05-13`
+- `gpt-4o-2024-08-06`
+- `gpt-4o-2024-11-20`
+- `gpt-4o-mini-2024-07-18`
+- `gpt-4o-mini-search-preview-2025-03-11`
+- `gpt-4o-mini-transcribe-2025-03-20`
+- `gpt-4o-mini-transcribe-2025-12-15`
+- `gpt-4o-mini-tts-2025-03-20`
+- `gpt-4o-mini-tts-2025-12-15`
+- `gpt-4o-search-preview-2025-03-11`
+- `gpt-4o-transcribe`
+- `gpt-4o-transcribe-diarize`
+- `gpt-5-2025-08-07`
+- `gpt-5-mini-2025-08-07`
+- `gpt-5-nano`
+- `gpt-5-nano-2025-08-07`
+- `gpt-5-pro-2025-10-06`
+- `gpt-5-search-api-2025-10-14`
+- `gpt-5.1`
+- `gpt-5.1-2025-11-13`
+- `gpt-5.1-chat-latest`
+- `gpt-5.1-codex-max`
+- `gpt-5.1-codex-mini`
+- `gpt-5.2-2025-12-11`
+- `gpt-5.2-chat-latest`
+- `gpt-5.2-pro-2025-12-11`
+- `gpt-5.3-chat-latest`
+- `gpt-5.4-2026-03-05`
+- `gpt-5.4-mini-2026-03-17`
+- `gpt-5.4-nano-2026-03-17`
+- `gpt-5.4-pro-2026-03-05`
+- `gpt-5.5-2026-04-23`
+- `gpt-5.5-pro-2026-04-23`
+- `gpt-audio`
+- `gpt-audio-1.5`
+- `gpt-audio-2025-08-28`
+- `gpt-audio-mini`
+- `gpt-audio-mini-2025-10-06`
+- `gpt-audio-mini-2025-12-15`
+- `gpt-image-1`
+- `gpt-image-1-mini`
+- `gpt-image-1.5`
+- `gpt-image-2`
+- `gpt-image-2-2026-04-21`
+- `gpt-realtime`
+- `gpt-realtime-1.5`
+- `gpt-realtime-2`
+- `gpt-realtime-2025-08-28`
+- `gpt-realtime-mini`
+- `gpt-realtime-mini-2025-10-06`
+- `gpt-realtime-mini-2025-12-15`
+- `gpt-realtime-translate`
+- `gpt-realtime-whisper`
+- `o1-2024-12-17`
+- `o1-pro-2025-03-19`
+- `o3-2025-04-16`
+- `o3-mini`
+- `o3-mini-2025-01-31`
+- `o4-mini-2025-04-16`
+- `o4-mini-deep-research-2025-06-26`
+- `omni-moderation-2024-09-26`
+- `omni-moderation-latest`
+- `sora-2`
+- `sora-2-pro`
+- `text-embedding-3-large`
+- `text-embedding-3-small`
+- `text-embedding-ada-002`
+- `tts-1`
+- `tts-1-1106`
+- `tts-1-hd`
+- `tts-1-hd-1106`
+- `whisper-1`

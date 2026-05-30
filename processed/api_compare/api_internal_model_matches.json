@@ -1,0 +1,2465 @@
+{
+  "generated_at": "2026-05-29T12:50:14.084859+00:00",
+  "api_model_count": 120,
+  "high_confidence_count": 8,
+  "possible_related_count": 23,
+  "unmatched_count": 89,
+  "high_confidence": [
+    {
+      "api_id": "gpt-4",
+      "matches": [
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4: (biz_no_browse_with_canvas)",
+          "occurrence_count": 25,
+          "source_count": 25,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4: (biz_with_canvas)",
+          "occurrence_count": 23,
+          "source_count": 23,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4: (biz_no_browse)",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4: (biz)",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4: (pro)",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4: (paid)",
+          "occurrence_count": 16,
+          "source_count": 16,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "mainline gpt-4o-canmore: (biz_no_browse_with_canvas)",
+          "occurrence_count": 25,
+          "source_count": 25,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "mainline gpt-4o-canmore: (biz_with_canvas)",
+          "occurrence_count": 25,
+          "source_count": 25,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "mainline gpt-4o-mini: (biz_no_browse_with_canvas)",
+          "occurrence_count": 25,
+          "source_count": 25,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "mainline gpt-4o: (biz_no_browse_with_canvas)",
+          "occurrence_count": 25,
+          "source_count": 25,
+          "badges": [
+            "mainline"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-4o",
+      "matches": [
+        {
+          "score": 100,
+          "reason": "exact_name",
+          "internal_name": "GPT-4o",
+          "occurrence_count": 14,
+          "source_count": 7,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4o: (biz_no_browse_with_canvas)",
+          "occurrence_count": 25,
+          "source_count": 25,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4o: (biz_with_canvas)",
+          "occurrence_count": 24,
+          "source_count": 24,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4o: (biz_no_browse)",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4o: (no_auth_apple_punch_out)",
+          "occurrence_count": 20,
+          "source_count": 20,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4o: (biz)",
+          "occurrence_count": 18,
+          "source_count": 18,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4o: (unpaid)",
+          "occurrence_count": 18,
+          "source_count": 18,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4o: (paid)",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4o: (pro)",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 93,
+          "reason": "collapsed_alias",
+          "internal_name": "gpt4o",
+          "occurrence_count": 6,
+          "source_count": 6,
+          "badges": [
+            "alpha"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-4o-mini",
+      "matches": [
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4o-mini: (biz_no_browse_with_canvas)",
+          "occurrence_count": 25,
+          "source_count": 25,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4o-mini: (biz_with_canvas)",
+          "occurrence_count": 24,
+          "source_count": 24,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4o-mini: (biz_no_browse)",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4o-mini: (no_auth_search)",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4o-mini: (no_auth_apple_punch_out)",
+          "occurrence_count": 20,
+          "source_count": 20,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4o-mini: (no_auth_no_tools)",
+          "occurrence_count": 20,
+          "source_count": 20,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4o-mini: (no_auth)",
+          "occurrence_count": 19,
+          "source_count": 19,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4o-mini: (biz)",
+          "occurrence_count": 18,
+          "source_count": 18,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4o-mini: (unpaid)",
+          "occurrence_count": 18,
+          "source_count": 18,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline gpt-4o-mini: (paid)",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "mainline"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-5.2",
+      "matches": [
+        {
+          "score": 100,
+          "reason": "exact_name",
+          "internal_name": "GPT-5.2",
+          "occurrence_count": 32,
+          "source_count": 8,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "GPT-5.2 Instant",
+          "occurrence_count": 24,
+          "source_count": 12,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "GPT-5.2 Pro Pathfinder",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "GPT-5.2 Pro - Artifacts",
+          "occurrence_count": 15,
+          "source_count": 15,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "Deep Research App (GPT 5.2 Thinking)",
+          "occurrence_count": 114,
+          "source_count": 19,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT 5.2 Sugar Memory Only",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT 5 2 reasoning paid jobs",
+          "occurrence_count": 16,
+          "source_count": 16,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT 5 Health Mode 2",
+          "occurrence_count": 13,
+          "source_count": 13,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT 5.2 codex",
+          "occurrence_count": 12,
+          "source_count": 12,
+          "badges": [
+            "alpha"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-5.2-codex",
+      "matches": [
+        {
+          "score": 95,
+          "reason": "normalized_alias",
+          "internal_name": "GPT 5.2 codex",
+          "occurrence_count": 12,
+          "source_count": 12,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "Deep Research App (GPT 5.2 Thinking)",
+          "occurrence_count": 114,
+          "source_count": 19,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.2",
+          "occurrence_count": 32,
+          "source_count": 8,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.2 Instant",
+          "occurrence_count": 24,
+          "source_count": 12,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT 5.2 Sugar Memory Only",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.2 Pro Pathfinder",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT 5 2 reasoning paid jobs",
+          "occurrence_count": 16,
+          "source_count": 16,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.2 Pro - Artifacts",
+          "occurrence_count": 15,
+          "source_count": 15,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT 5 Health Mode 2",
+          "occurrence_count": 13,
+          "source_count": 13,
+          "badges": [
+            "alpha"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-5.5",
+      "matches": [
+        {
+          "score": 100,
+          "reason": "exact_name",
+          "internal_name": "GPT-5.5",
+          "occurrence_count": 70,
+          "source_count": 7,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "GPT-5.5 Thinking Artifacts",
+          "occurrence_count": 32,
+          "source_count": 16,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "GPT-5.5 Pro Artifacts",
+          "occurrence_count": 28,
+          "source_count": 14,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "GPT-5.5 unpaid local biz ctx 16k heap topn10",
+          "occurrence_count": 24,
+          "source_count": 24,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "GPT-5.5 unpaid local biz ctx 8k heap topn10",
+          "occurrence_count": 24,
+          "source_count": 24,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "GPT-5.5 unpaid local biz ctx 8k heap",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "GPT-5.5 with activation classifiers onboard",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "Yaro GPT-5.5 search summarization DLE",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "Yaroslav GPT-5.5 search DLE probe 2026-05-20",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "GPT-5.5 unpaid local biz ctx 16k",
+          "occurrence_count": 21,
+          "source_count": 21,
+          "badges": [
+            "alpha"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "o3",
+      "matches": [
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline o3: (biz_no_browse_with_canvas)",
+          "occurrence_count": 21,
+          "source_count": 21,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline o3: (biz_with_canvas)",
+          "occurrence_count": 20,
+          "source_count": 20,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline o3: (biz_no_browse)",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline o3: (paid)",
+          "occurrence_count": 14,
+          "source_count": 14,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline o3: (pro)",
+          "occurrence_count": 14,
+          "source_count": 14,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline o3: (biz)",
+          "occurrence_count": 13,
+          "source_count": 13,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "o3.business_grader_non_labrador",
+          "occurrence_count": 15,
+          "source_count": 15,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "GPT4o w/ o3 handoff",
+          "occurrence_count": 14,
+          "source_count": 14,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "O3 Business Grader",
+          "occurrence_count": 12,
+          "source_count": 12,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "Amrit's Image O3",
+          "occurrence_count": 11,
+          "source_count": 11,
+          "badges": [
+            "alpha"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "o4-mini",
+      "matches": [
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline o4-mini: (biz_no_browse_with_canvas)",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline o4-mini: (biz_with_canvas)",
+          "occurrence_count": 21,
+          "source_count": 21,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline o4-mini: (biz_no_browse)",
+          "occurrence_count": 18,
+          "source_count": 18,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline o4-mini: (paid)",
+          "occurrence_count": 15,
+          "source_count": 15,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline o4-mini: (pro)",
+          "occurrence_count": 15,
+          "source_count": 15,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 98,
+          "reason": "mainline_base",
+          "internal_name": "mainline o4-mini: (biz)",
+          "occurrence_count": 14,
+          "source_count": 14,
+          "badges": [
+            "mainline"
+          ]
+        }
+      ]
+    }
+  ],
+  "possible_related": [
+    {
+      "api_id": "davinci-002",
+      "matches": [
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "mainline text-davinci-002-render-sha: (biz_no_browse)",
+          "occurrence_count": 25,
+          "source_count": 25,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "mainline text-davinci-002-render-sha: (biz_no_browse_with_canvas)",
+          "occurrence_count": 25,
+          "source_count": 25,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "mainline text-davinci-002-render-sha: (no_auth_apple_punch_out)",
+          "occurrence_count": 25,
+          "source_count": 25,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "mainline text-davinci-002-render-sha: (biz_with_canvas)",
+          "occurrence_count": 24,
+          "source_count": 24,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "mainline text-davinci-002-render-sha: (no_auth)",
+          "occurrence_count": 23,
+          "source_count": 23,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "mainline text-davinci-002-render-sha: (no_auth_no_tools)",
+          "occurrence_count": 23,
+          "source_count": 23,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "mainline text-davinci-002-render-sha: (pro)",
+          "occurrence_count": 23,
+          "source_count": 23,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "mainline text-davinci-002-render-sha: (unpaid)",
+          "occurrence_count": 23,
+          "source_count": 23,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "mainline text-davinci-002-render-sha: (biz)",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "mainline text-davinci-002-render-sha: (paid)",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "mainline"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-3.5-turbo",
+      "matches": [
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.3",
+          "occurrence_count": 96,
+          "source_count": 8,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "gpt 5-3",
+          "occurrence_count": 35,
+          "source_count": 7,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.3 paid prod arm7 s950 with prose-style developer message",
+          "occurrence_count": 24,
+          "source_count": 24,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:genui_widget_paragen_gpt_5_3_unpaid_user_prompt_v3:a_widgets_enabled",
+          "occurrence_count": 23,
+          "source_count": 23,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:genui_widget_paragen_gpt_5_3_unpaid_user_prompt_v3:b_widgets_disabled",
+          "occurrence_count": 23,
+          "source_count": 23,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "Yaroslav GPT-5.3 search-parrot DLE probe 2026-05-20",
+          "occurrence_count": 23,
+          "source_count": 23,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:genui_widget_paragen_gpt_5_3_unpaid_user:a_widgets_enabled",
+          "occurrence_count": 21,
+          "source_count": 21,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:genui_widget_paragen_gpt_5_3_unpaid_user:b_widgets_disabled",
+          "occurrence_count": 21,
+          "source_count": 21,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_54_thinking_j5_vs_53_iid_paid_04pct:a_gpt_5_3",
+          "occurrence_count": 21,
+          "source_count": 21,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "Andromeda D1 1400 GPT-5.3 Instant",
+          "occurrence_count": 20,
+          "source_count": 20,
+          "badges": [
+            "alpha"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-4o-mini-search-preview",
+      "matches": [
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (no_auth_search)",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "mainline"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-4o-mini-transcribe",
+      "matches": [
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (biz_no_browse_with_canvas)",
+          "occurrence_count": 25,
+          "source_count": 25,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (biz_with_canvas)",
+          "occurrence_count": 24,
+          "source_count": 24,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (biz_no_browse)",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (no_auth_search)",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (no_auth_apple_punch_out)",
+          "occurrence_count": 20,
+          "source_count": 20,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (no_auth_no_tools)",
+          "occurrence_count": 20,
+          "source_count": 20,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (no_auth)",
+          "occurrence_count": 19,
+          "source_count": 19,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (biz)",
+          "occurrence_count": 18,
+          "source_count": 18,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (unpaid)",
+          "occurrence_count": 18,
+          "source_count": 18,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (paid)",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "mainline"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-4o-mini-tts",
+      "matches": [
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (biz_no_browse_with_canvas)",
+          "occurrence_count": 25,
+          "source_count": 25,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (biz_with_canvas)",
+          "occurrence_count": 24,
+          "source_count": 24,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (biz_no_browse)",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (no_auth_search)",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (no_auth_apple_punch_out)",
+          "occurrence_count": 20,
+          "source_count": 20,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (no_auth_no_tools)",
+          "occurrence_count": 20,
+          "source_count": 20,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (no_auth)",
+          "occurrence_count": 19,
+          "source_count": 19,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (biz)",
+          "occurrence_count": 18,
+          "source_count": 18,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (unpaid)",
+          "occurrence_count": 18,
+          "source_count": 18,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (paid)",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "mainline"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-4o-search-preview",
+      "matches": [
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-4o-mini: (no_auth_search)",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "mainline"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-5",
+      "matches": [
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "GPT-5.3",
+          "occurrence_count": 96,
+          "source_count": 8,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "GPT-5.5",
+          "occurrence_count": 70,
+          "source_count": 7,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "GPT-5.2",
+          "occurrence_count": 32,
+          "source_count": 8,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "GPT-5.5 Thinking Artifacts",
+          "occurrence_count": 32,
+          "source_count": 16,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "GPT-5.5 Pro Artifacts",
+          "occurrence_count": 28,
+          "source_count": 14,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "GPT-5.2 Instant",
+          "occurrence_count": 24,
+          "source_count": 12,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "GPT-5.3 paid prod arm7 s950 with prose-style developer message",
+          "occurrence_count": 24,
+          "source_count": 24,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "GPT-5.5 unpaid local biz ctx 16k heap topn10",
+          "occurrence_count": 24,
+          "source_count": 24,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "GPT-5.5 unpaid local biz ctx 8k heap topn10",
+          "occurrence_count": 24,
+          "source_count": 24,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "mainline gpt-5-chat-safety: (no_auth_search)",
+          "occurrence_count": 24,
+          "source_count": 24,
+          "badges": [
+            "mainline"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-5-chat-latest",
+      "matches": [
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-5-chat-safety: (no_auth_search)",
+          "occurrence_count": 24,
+          "source_count": 24,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-5-chat-safety: (no_auth)",
+          "occurrence_count": 23,
+          "source_count": 23,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-5-chat-safety: (no_auth_no_tools)",
+          "occurrence_count": 23,
+          "source_count": 23,
+          "badges": [
+            "mainline"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-5-codex",
+      "matches": [
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT 5.2 codex",
+          "occurrence_count": 12,
+          "source_count": 12,
+          "badges": [
+            "alpha"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-5-mini",
+      "matches": [
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "gpt-5-mini for cocoon",
+          "occurrence_count": 13,
+          "source_count": 13,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT 5.4R Mini Sugar Memory",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "gpt_5_3_mini_paid_04_17",
+          "occurrence_count": 16,
+          "source_count": 16,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5 Thinking Mini",
+          "occurrence_count": 11,
+          "source_count": 11,
+          "badges": [
+            "alpha"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-5-pro",
+      "matches": [
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.5 Pro Artifacts",
+          "occurrence_count": 28,
+          "source_count": 14,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_5_5_lupo_pro:c_treatment_fork",
+          "occurrence_count": 19,
+          "source_count": 19,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.5 Pro judge KC 202406",
+          "occurrence_count": 19,
+          "source_count": 19,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_5_5_lupo_pro:b_treatment",
+          "occurrence_count": 18,
+          "source_count": 18,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_5_5_iid_pro:b_control",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.2 Pro Pathfinder",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_5_5_iid_pro:a_treatment",
+          "occurrence_count": 16,
+          "source_count": 16,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_5_5_lupo_pro:a_control",
+          "occurrence_count": 16,
+          "source_count": 16,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.2 Pro - Artifacts",
+          "occurrence_count": 15,
+          "source_count": 15,
+          "badges": [
+            "alpha"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-5-search-api",
+      "matches": [
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline gpt-5-chat-safety: (no_auth_search)",
+          "occurrence_count": 24,
+          "source_count": 24,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "Yaroslav GPT-5.3 search-parrot DLE probe 2026-05-20",
+          "occurrence_count": 23,
+          "source_count": 23,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "Yaro GPT-5.5 search summarization DLE",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "Yaroslav GPT-5.5 search DLE probe 2026-05-20",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.5 / Product Groups + No Search",
+          "occurrence_count": 19,
+          "source_count": 19,
+          "badges": [
+            "alpha"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-5.1-codex",
+      "matches": [
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT 5.2 codex",
+          "occurrence_count": 12,
+          "source_count": 12,
+          "badges": [
+            "alpha"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-5.2-pro",
+      "matches": [
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "Deep Research App (GPT 5.2 Thinking)",
+          "occurrence_count": 114,
+          "source_count": 19,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.2",
+          "occurrence_count": 32,
+          "source_count": 8,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.5 Pro Artifacts",
+          "occurrence_count": 28,
+          "source_count": 14,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.2 Instant",
+          "occurrence_count": 24,
+          "source_count": 12,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_5_5_lupo_pro:c_treatment_fork",
+          "occurrence_count": 19,
+          "source_count": 19,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.5 Pro judge KC 202406",
+          "occurrence_count": 19,
+          "source_count": 19,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_5_5_lupo_pro:b_treatment",
+          "occurrence_count": 18,
+          "source_count": 18,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_5_5_iid_pro:b_control",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT 5.2 Sugar Memory Only",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.2 Pro Pathfinder",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "alpha"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-5.3-codex",
+      "matches": [
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.3",
+          "occurrence_count": 96,
+          "source_count": 8,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "gpt 5-3",
+          "occurrence_count": 35,
+          "source_count": 7,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.3 paid prod arm7 s950 with prose-style developer message",
+          "occurrence_count": 24,
+          "source_count": 24,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:genui_widget_paragen_gpt_5_3_unpaid_user_prompt_v3:a_widgets_enabled",
+          "occurrence_count": 23,
+          "source_count": 23,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:genui_widget_paragen_gpt_5_3_unpaid_user_prompt_v3:b_widgets_disabled",
+          "occurrence_count": 23,
+          "source_count": 23,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "Yaroslav GPT-5.3 search-parrot DLE probe 2026-05-20",
+          "occurrence_count": 23,
+          "source_count": 23,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:genui_widget_paragen_gpt_5_3_unpaid_user:a_widgets_enabled",
+          "occurrence_count": 21,
+          "source_count": 21,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:genui_widget_paragen_gpt_5_3_unpaid_user:b_widgets_disabled",
+          "occurrence_count": 21,
+          "source_count": 21,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_54_thinking_j5_vs_53_iid_paid_04pct:a_gpt_5_3",
+          "occurrence_count": 21,
+          "source_count": 21,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "Andromeda D1 1400 GPT-5.3 Instant",
+          "occurrence_count": 20,
+          "source_count": 20,
+          "badges": [
+            "alpha"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-5.4",
+      "matches": [
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_54_thinking_j5_vs_53_iid_paid_04pct:b_gpt_5_4_thinking",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_54_thinking_j5_vs_53_iid_paid:b_gpt_5_4_thinking",
+          "occurrence_count": 21,
+          "source_count": 21,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "gpt-5-4-thinking-artifacts",
+          "occurrence_count": 16,
+          "source_count": 16,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT 5.4 Thinking Widgets",
+          "occurrence_count": 15,
+          "source_count": 15,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-4.5 Mainline",
+          "occurrence_count": 14,
+          "source_count": 14,
+          "badges": [
+            "alpha"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-5.4-mini",
+      "matches": [
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_54_thinking_j5_vs_53_iid_paid_04pct:b_gpt_5_4_thinking",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_54_thinking_j5_vs_53_iid_paid:b_gpt_5_4_thinking",
+          "occurrence_count": 21,
+          "source_count": 21,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "5.4 Auto Reasoning Mini Artifacts Edit Vicky",
+          "occurrence_count": 20,
+          "source_count": 20,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT 5.4R Mini Sugar Memory",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "gpt-5-4-thinking-artifacts",
+          "occurrence_count": 16,
+          "source_count": 16,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "gpt_5_3_mini_paid_04_17",
+          "occurrence_count": 16,
+          "source_count": 16,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT 5.4 Thinking Widgets",
+          "occurrence_count": 15,
+          "source_count": 15,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-4.5 Mainline",
+          "occurrence_count": 14,
+          "source_count": 14,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "gpt-5-mini for cocoon",
+          "occurrence_count": 13,
+          "source_count": 13,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5 Thinking Mini",
+          "occurrence_count": 11,
+          "source_count": 11,
+          "badges": [
+            "alpha"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-5.4-nano",
+      "matches": [
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_54_thinking_j5_vs_53_iid_paid_04pct:b_gpt_5_4_thinking",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_54_thinking_j5_vs_53_iid_paid:b_gpt_5_4_thinking",
+          "occurrence_count": 21,
+          "source_count": 21,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "gpt-5-4-thinking-artifacts",
+          "occurrence_count": 16,
+          "source_count": 16,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT 5.4 Thinking Widgets",
+          "occurrence_count": 15,
+          "source_count": 15,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-4.5 Mainline",
+          "occurrence_count": 14,
+          "source_count": 14,
+          "badges": [
+            "alpha"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-5.4-pro",
+      "matches": [
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "5.4 current_gpt5_4_pro_pro Artifacts",
+          "occurrence_count": 36,
+          "source_count": 18,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.5 Pro Artifacts",
+          "occurrence_count": 28,
+          "source_count": 14,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_54_thinking_j5_vs_53_iid_paid_04pct:b_gpt_5_4_thinking",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_54_thinking_j5_vs_53_iid_paid:b_gpt_5_4_thinking",
+          "occurrence_count": 21,
+          "source_count": 21,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_5_5_lupo_pro:c_treatment_fork",
+          "occurrence_count": 19,
+          "source_count": 19,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.5 Pro judge KC 202406",
+          "occurrence_count": 19,
+          "source_count": 19,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "5.4 Artifacts Pro Judging",
+          "occurrence_count": 18,
+          "source_count": 18,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "5.4 Artifacts Pro No Judging",
+          "occurrence_count": 18,
+          "source_count": 18,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_5_5_lupo_pro:b_treatment",
+          "occurrence_count": 18,
+          "source_count": 18,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_5_5_iid_pro:b_control",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "data_campaigns"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "gpt-5.5-pro",
+      "matches": [
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.5 Pro Artifacts",
+          "occurrence_count": 28,
+          "source_count": 14,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_5_5_lupo_pro:c_treatment_fork",
+          "occurrence_count": 19,
+          "source_count": 19,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.5 Pro judge KC 202406",
+          "occurrence_count": 19,
+          "source_count": 19,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_5_5_lupo_pro:b_treatment",
+          "occurrence_count": 18,
+          "source_count": 18,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_5_5_iid_pro:b_control",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.2 Pro Pathfinder",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "alpha"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_5_5_iid_pro:a_treatment",
+          "occurrence_count": 16,
+          "source_count": 16,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "campaign:gpt_5_5_lupo_pro:a_control",
+          "occurrence_count": 16,
+          "source_count": 16,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "GPT-5.2 Pro - Artifacts",
+          "occurrence_count": 15,
+          "source_count": 15,
+          "badges": [
+            "alpha"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "o1",
+      "matches": [
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "campaign:5p3_moresearch_nosearch_tolo1_s1450_0227:b_no_search",
+          "occurrence_count": 25,
+          "source_count": 25,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "campaign:pairwise_web_feature_additive_paragen_latency_control:a_tolo1_s1000",
+          "occurrence_count": 25,
+          "source_count": 25,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "campaign:5p3_moresearch_nosearch_tolo1_s1450_0227:a_more_search",
+          "occurrence_count": 24,
+          "source_count": 24,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "campaign:pairwise_web_feature_additive_paragen_same_dev_msg:a_tolo1_s1000",
+          "occurrence_count": 24,
+          "source_count": 24,
+          "badges": [
+            "data_campaigns"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "mainline o1-preview: (biz_no_browse_with_canvas)",
+          "occurrence_count": 24,
+          "source_count": 24,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "mainline o1-preview: (biz_with_canvas)",
+          "occurrence_count": 24,
+          "source_count": 24,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "mainline o1-mini: (biz_no_browse_with_canvas)",
+          "occurrence_count": 22,
+          "source_count": 22,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "5p4_tolo1_reasoning_unpaid_0309",
+          "occurrence_count": 21,
+          "source_count": 21,
+          "badges": []
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "mainline o1-mini: (biz_with_canvas)",
+          "occurrence_count": 21,
+          "source_count": 21,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 70,
+          "reason": "api_id_substring",
+          "internal_name": "mainline o1-preview: (biz_no_browse)",
+          "occurrence_count": 21,
+          "source_count": 21,
+          "badges": [
+            "mainline"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "o1-pro",
+      "matches": [
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline o1-preview: (pro)",
+          "occurrence_count": 17,
+          "source_count": 17,
+          "badges": [
+            "mainline"
+          ]
+        },
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "mainline o1-mini: (pro)",
+          "occurrence_count": 15,
+          "source_count": 15,
+          "badges": [
+            "mainline"
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": "o4-mini-deep-research",
+      "matches": [
+        {
+          "score": 60,
+          "reason": "token_overlap",
+          "internal_name": "Deep Research Mini (Mar 24)",
+          "occurrence_count": 16,
+          "source_count": 16,
+          "badges": [
+            "alpha"
+          ]
+        }
+      ]
+    }
+  ],
+  "unmatched_api_ids": [
+    "babbage-002",
+    "chat-latest",
+    "chatgpt-image-latest",
+    "gpt-3.5-turbo-0125",
+    "gpt-3.5-turbo-1106",
+    "gpt-3.5-turbo-16k",
+    "gpt-3.5-turbo-instruct",
+    "gpt-3.5-turbo-instruct-0914",
+    "gpt-4-0613",
+    "gpt-4-turbo",
+    "gpt-4-turbo-2024-04-09",
+    "gpt-4.1",
+    "gpt-4.1-2025-04-14",
+    "gpt-4.1-mini",
+    "gpt-4.1-mini-2025-04-14",
+    "gpt-4.1-nano",
+    "gpt-4.1-nano-2025-04-14",
+    "gpt-4o-2024-05-13",
+    "gpt-4o-2024-08-06",
+    "gpt-4o-2024-11-20",
+    "gpt-4o-mini-2024-07-18",
+    "gpt-4o-mini-search-preview-2025-03-11",
+    "gpt-4o-mini-transcribe-2025-03-20",
+    "gpt-4o-mini-transcribe-2025-12-15",
+    "gpt-4o-mini-tts-2025-03-20",
+    "gpt-4o-mini-tts-2025-12-15",
+    "gpt-4o-search-preview-2025-03-11",
+    "gpt-4o-transcribe",
+    "gpt-4o-transcribe-diarize",
+    "gpt-5-2025-08-07",
+    "gpt-5-mini-2025-08-07",
+    "gpt-5-nano",
+    "gpt-5-nano-2025-08-07",
+    "gpt-5-pro-2025-10-06",
+    "gpt-5-search-api-2025-10-14",
+    "gpt-5.1",
+    "gpt-5.1-2025-11-13",
+    "gpt-5.1-chat-latest",
+    "gpt-5.1-codex-max",
+    "gpt-5.1-codex-mini",
+    "gpt-5.2-2025-12-11",
+    "gpt-5.2-chat-latest",
+    "gpt-5.2-pro-2025-12-11",
+    "gpt-5.3-chat-latest",
+    "gpt-5.4-2026-03-05",
+    "gpt-5.4-mini-2026-03-17",
+    "gpt-5.4-nano-2026-03-17",
+    "gpt-5.4-pro-2026-03-05",
+    "gpt-5.5-2026-04-23",
+    "gpt-5.5-pro-2026-04-23",
+    "gpt-audio",
+    "gpt-audio-1.5",
+    "gpt-audio-2025-08-28",
+    "gpt-audio-mini",
+    "gpt-audio-mini-2025-10-06",
+    "gpt-audio-mini-2025-12-15",
+    "gpt-image-1",
+    "gpt-image-1-mini",
+    "gpt-image-1.5",
+    "gpt-image-2",
+    "gpt-image-2-2026-04-21",
+    "gpt-realtime",
+    "gpt-realtime-1.5",
+    "gpt-realtime-2",
+    "gpt-realtime-2025-08-28",
+    "gpt-realtime-mini",
+    "gpt-realtime-mini-2025-10-06",
+    "gpt-realtime-mini-2025-12-15",
+    "gpt-realtime-translate",
+    "gpt-realtime-whisper",
+    "o1-2024-12-17",
+    "o1-pro-2025-03-19",
+    "o3-2025-04-16",
+    "o3-mini",
+    "o3-mini-2025-01-31",
+    "o4-mini-2025-04-16",
+    "o4-mini-deep-research-2025-06-26",
+    "omni-moderation-2024-09-26",
+    "omni-moderation-latest",
+    "sora-2",
+    "sora-2-pro",
+    "text-embedding-3-large",
+    "text-embedding-3-small",
+    "text-embedding-ada-002",
+    "tts-1",
+    "tts-1-1106",
+    "tts-1-hd",
+    "tts-1-hd-1106",
+    "whisper-1"
+  ]
+}

@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.python-version
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local secrets
+.env
+
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editors, IDE and OS
+.vscode/
+.idea/
+.claude/
+Thumbs.db
+.DS_Store
+
+# Local extraction outputs
+screening-results/
+screening-results-*/
+processed/per_file/
+results/
+output/
+tmp/
+temp/
+
+# Sensitive local captures
+prepare.txt
+prepare响应.txt
+chatgpt.com.har
+
+# Raw scraped data — pipeline inputs only, NOT committed
+/*.txt
+/*.html
+/*.har
+!/requirements.txt
+/ChatGPT模型介绍_files/
+/筛选/
+
+# Runtime state written by the server
+processed/server_state.json
+
+# Intermediate pipeline outputs (regenerable from raw data)
+processed/screening_per_file/
+processed/screening_aggregate/
+
+# Internal working notes
+NOTES.md

@@ -1,0 +1,1632 @@
+[
+  {
+    "name": "GPT 5.2 codex",
+    "normalized_name": "gpt 5.2 codex",
+    "occurrence_count": 12,
+    "source_count": 12,
+    "source_files": [
+      "..txt",
+      "2.txt",
+      "5.txt",
+      "c.txt",
+      "d.txt",
+      "e.txt",
+      "g.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "t.txt",
+      "x.txt"
+    ],
+    "badges": [
+      "alpha"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "GPT 5.2 codex"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "GPT-4o",
+    "normalized_name": "gpt-4o",
+    "occurrence_count": 14,
+    "source_count": 7,
+    "source_files": [
+      "-.txt",
+      "4.txt",
+      "g.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "t.txt"
+    ],
+    "badges": [
+      "alpha"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "GPT-4o",
+      "gpt-4o"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "GPT-5.2",
+    "normalized_name": "gpt-5.2",
+    "occurrence_count": 32,
+    "source_count": 8,
+    "source_files": [
+      "-.txt",
+      "..txt",
+      "2.txt",
+      "5.txt",
+      "g.txt",
+      "p.txt",
+      "q.txt",
+      "t.txt"
+    ],
+    "badges": [
+      "alpha"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "GPT-5.2"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "GPT-5.5",
+    "normalized_name": "gpt-5.5",
+    "occurrence_count": 70,
+    "source_count": 7,
+    "source_files": [
+      "-.txt",
+      "..txt",
+      "5.txt",
+      "g.txt",
+      "p.txt",
+      "q.txt",
+      "t.txt"
+    ],
+    "badges": [
+      "alpha"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "GPT-5.5"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "gpt4o",
+    "normalized_name": "gpt4o",
+    "occurrence_count": 6,
+    "source_count": 6,
+    "source_files": [
+      "4.txt",
+      "g.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "t.txt"
+    ],
+    "badges": [
+      "alpha"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "gpt4o"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4: (biz)",
+    "normalized_name": "mainline gpt-4: (biz)",
+    "occurrence_count": 17,
+    "source_count": 17,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "a.txt",
+      "b.txt",
+      "e.txt",
+      "g.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "p.txt",
+      "q.txt",
+      "t.txt",
+      "z.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4: (biz)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4: (biz_no_browse)",
+    "normalized_name": "mainline gpt-4: (biz_no_browse)",
+    "occurrence_count": 22,
+    "source_count": 22,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "_.txt",
+      "a.txt",
+      "b.txt",
+      "e.txt",
+      "g.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "r.txt",
+      "s.txt",
+      "t.txt",
+      "w.txt",
+      "z.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4: (biz_no_browse)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4: (biz_no_browse_with_canvas)",
+    "normalized_name": "mainline gpt-4: (biz_no_browse_with_canvas)",
+    "occurrence_count": 25,
+    "source_count": 25,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "_.txt",
+      "a.txt",
+      "b.txt",
+      "c.txt",
+      "e.txt",
+      "g.txt",
+      "h.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "r.txt",
+      "s.txt",
+      "t.txt",
+      "v.txt",
+      "w.txt",
+      "z.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4: (biz_no_browse_with_canvas)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4: (biz_with_canvas)",
+    "normalized_name": "mainline gpt-4: (biz_with_canvas)",
+    "occurrence_count": 23,
+    "source_count": 23,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "_.txt",
+      "a.txt",
+      "b.txt",
+      "c.txt",
+      "e.txt",
+      "g.txt",
+      "h.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "p.txt",
+      "q.txt",
+      "s.txt",
+      "t.txt",
+      "v.txt",
+      "w.txt",
+      "z.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4: (biz_with_canvas)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4: (paid)",
+    "normalized_name": "mainline gpt-4: (paid)",
+    "occurrence_count": 16,
+    "source_count": 16,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "a.txt",
+      "d.txt",
+      "e.txt",
+      "g.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "p.txt",
+      "q.txt",
+      "t.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4: (paid)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4: (pro)",
+    "normalized_name": "mainline gpt-4: (pro)",
+    "occurrence_count": 17,
+    "source_count": 17,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "a.txt",
+      "e.txt",
+      "g.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "r.txt",
+      "t.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4: (pro)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4o-mini: (biz)",
+    "normalized_name": "mainline gpt-4o-mini: (biz)",
+    "occurrence_count": 18,
+    "source_count": 18,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "a.txt",
+      "b.txt",
+      "e.txt",
+      "g.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "t.txt",
+      "z.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4o-mini: (biz)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4o-mini: (biz_no_browse)",
+    "normalized_name": "mainline gpt-4o-mini: (biz_no_browse)",
+    "occurrence_count": 22,
+    "source_count": 22,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "_.txt",
+      "a.txt",
+      "b.txt",
+      "e.txt",
+      "g.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "r.txt",
+      "s.txt",
+      "t.txt",
+      "w.txt",
+      "z.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4o-mini: (biz_no_browse)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4o-mini: (biz_no_browse_with_canvas)",
+    "normalized_name": "mainline gpt-4o-mini: (biz_no_browse_with_canvas)",
+    "occurrence_count": 25,
+    "source_count": 25,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "_.txt",
+      "a.txt",
+      "b.txt",
+      "c.txt",
+      "e.txt",
+      "g.txt",
+      "h.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "r.txt",
+      "s.txt",
+      "t.txt",
+      "v.txt",
+      "w.txt",
+      "z.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4o-mini: (biz_no_browse_with_canvas)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4o-mini: (biz_with_canvas)",
+    "normalized_name": "mainline gpt-4o-mini: (biz_with_canvas)",
+    "occurrence_count": 24,
+    "source_count": 24,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "_.txt",
+      "a.txt",
+      "b.txt",
+      "c.txt",
+      "e.txt",
+      "g.txt",
+      "h.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "s.txt",
+      "t.txt",
+      "v.txt",
+      "w.txt",
+      "z.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4o-mini: (biz_with_canvas)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4o-mini: (no_auth)",
+    "normalized_name": "mainline gpt-4o-mini: (no_auth)",
+    "occurrence_count": 19,
+    "source_count": 19,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "_.txt",
+      "a.txt",
+      "e.txt",
+      "g.txt",
+      "h.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "t.txt",
+      "u.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4o-mini: (no_auth)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4o-mini: (no_auth_apple_punch_out)",
+    "normalized_name": "mainline gpt-4o-mini: (no_auth_apple_punch_out)",
+    "occurrence_count": 20,
+    "source_count": 20,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "_.txt",
+      "a.txt",
+      "c.txt",
+      "e.txt",
+      "g.txt",
+      "h.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "t.txt",
+      "u.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4o-mini: (no_auth_apple_punch_out)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4o-mini: (no_auth_no_tools)",
+    "normalized_name": "mainline gpt-4o-mini: (no_auth_no_tools)",
+    "occurrence_count": 20,
+    "source_count": 20,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "_.txt",
+      "a.txt",
+      "e.txt",
+      "g.txt",
+      "h.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "s.txt",
+      "t.txt",
+      "u.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4o-mini: (no_auth_no_tools)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4o-mini: (no_auth_search)",
+    "normalized_name": "mainline gpt-4o-mini: (no_auth_search)",
+    "occurrence_count": 22,
+    "source_count": 22,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "_.txt",
+      "a.txt",
+      "c.txt",
+      "e.txt",
+      "g.txt",
+      "h.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "r.txt",
+      "s.txt",
+      "t.txt",
+      "u.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4o-mini: (no_auth_search)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4o-mini: (paid)",
+    "normalized_name": "mainline gpt-4o-mini: (paid)",
+    "occurrence_count": 17,
+    "source_count": 17,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "a.txt",
+      "d.txt",
+      "e.txt",
+      "g.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "t.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4o-mini: (paid)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4o-mini: (pro)",
+    "normalized_name": "mainline gpt-4o-mini: (pro)",
+    "occurrence_count": 17,
+    "source_count": 17,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "a.txt",
+      "e.txt",
+      "g.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "r.txt",
+      "t.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4o-mini: (pro)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4o-mini: (unpaid)",
+    "normalized_name": "mainline gpt-4o-mini: (unpaid)",
+    "occurrence_count": 18,
+    "source_count": 18,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "a.txt",
+      "d.txt",
+      "e.txt",
+      "g.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "t.txt",
+      "u.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4o-mini: (unpaid)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4o: (biz)",
+    "normalized_name": "mainline gpt-4o: (biz)",
+    "occurrence_count": 18,
+    "source_count": 18,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "a.txt",
+      "b.txt",
+      "e.txt",
+      "g.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "t.txt",
+      "z.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4o: (biz)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4o: (biz_no_browse)",
+    "normalized_name": "mainline gpt-4o: (biz_no_browse)",
+    "occurrence_count": 22,
+    "source_count": 22,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "_.txt",
+      "a.txt",
+      "b.txt",
+      "e.txt",
+      "g.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "r.txt",
+      "s.txt",
+      "t.txt",
+      "w.txt",
+      "z.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4o: (biz_no_browse)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4o: (biz_no_browse_with_canvas)",
+    "normalized_name": "mainline gpt-4o: (biz_no_browse_with_canvas)",
+    "occurrence_count": 25,
+    "source_count": 25,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "_.txt",
+      "a.txt",
+      "b.txt",
+      "c.txt",
+      "e.txt",
+      "g.txt",
+      "h.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "r.txt",
+      "s.txt",
+      "t.txt",
+      "v.txt",
+      "w.txt",
+      "z.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4o: (biz_no_browse_with_canvas)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4o: (biz_with_canvas)",
+    "normalized_name": "mainline gpt-4o: (biz_with_canvas)",
+    "occurrence_count": 24,
+    "source_count": 24,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "_.txt",
+      "a.txt",
+      "b.txt",
+      "c.txt",
+      "e.txt",
+      "g.txt",
+      "h.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "s.txt",
+      "t.txt",
+      "v.txt",
+      "w.txt",
+      "z.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4o: (biz_with_canvas)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4o: (no_auth_apple_punch_out)",
+    "normalized_name": "mainline gpt-4o: (no_auth_apple_punch_out)",
+    "occurrence_count": 20,
+    "source_count": 20,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "_.txt",
+      "a.txt",
+      "c.txt",
+      "e.txt",
+      "g.txt",
+      "h.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "t.txt",
+      "u.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4o: (no_auth_apple_punch_out)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4o: (paid)",
+    "normalized_name": "mainline gpt-4o: (paid)",
+    "occurrence_count": 17,
+    "source_count": 17,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "a.txt",
+      "d.txt",
+      "e.txt",
+      "g.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "t.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4o: (paid)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4o: (pro)",
+    "normalized_name": "mainline gpt-4o: (pro)",
+    "occurrence_count": 17,
+    "source_count": 17,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "a.txt",
+      "e.txt",
+      "g.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "r.txt",
+      "t.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4o: (pro)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline gpt-4o: (unpaid)",
+    "normalized_name": "mainline gpt-4o: (unpaid)",
+    "occurrence_count": 18,
+    "source_count": 18,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "a.txt",
+      "d.txt",
+      "e.txt",
+      "g.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "t.txt",
+      "u.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline gpt-4o: (unpaid)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline o3: (biz)",
+    "normalized_name": "mainline o3: (biz)",
+    "occurrence_count": 13,
+    "source_count": 13,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "3.txt",
+      "a.txt",
+      "b.txt",
+      "e.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "z.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline o3: (biz)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline o3: (biz_no_browse)",
+    "normalized_name": "mainline o3: (biz_no_browse)",
+    "occurrence_count": 17,
+    "source_count": 17,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "3.txt",
+      "_.txt",
+      "a.txt",
+      "b.txt",
+      "e.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "r.txt",
+      "s.txt",
+      "w.txt",
+      "z.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline o3: (biz_no_browse)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline o3: (biz_no_browse_with_canvas)",
+    "normalized_name": "mainline o3: (biz_no_browse_with_canvas)",
+    "occurrence_count": 21,
+    "source_count": 21,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "3.txt",
+      "_.txt",
+      "a.txt",
+      "b.txt",
+      "c.txt",
+      "e.txt",
+      "h.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "r.txt",
+      "s.txt",
+      "t.txt",
+      "v.txt",
+      "w.txt",
+      "z.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline o3: (biz_no_browse_with_canvas)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline o3: (biz_with_canvas)",
+    "normalized_name": "mainline o3: (biz_with_canvas)",
+    "occurrence_count": 20,
+    "source_count": 20,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "3.txt",
+      "_.txt",
+      "a.txt",
+      "b.txt",
+      "c.txt",
+      "e.txt",
+      "h.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "s.txt",
+      "t.txt",
+      "v.txt",
+      "w.txt",
+      "z.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline o3: (biz_with_canvas)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline o3: (paid)",
+    "normalized_name": "mainline o3: (paid)",
+    "occurrence_count": 14,
+    "source_count": 14,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "3.txt",
+      "a.txt",
+      "d.txt",
+      "e.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline o3: (paid)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline o3: (pro)",
+    "normalized_name": "mainline o3: (pro)",
+    "occurrence_count": 14,
+    "source_count": 14,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "3.txt",
+      "a.txt",
+      "e.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "r.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline o3: (pro)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline o4-mini: (biz)",
+    "normalized_name": "mainline o4-mini: (biz)",
+    "occurrence_count": 14,
+    "source_count": 14,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "a.txt",
+      "b.txt",
+      "e.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "z.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline o4-mini: (biz)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline o4-mini: (biz_no_browse)",
+    "normalized_name": "mainline o4-mini: (biz_no_browse)",
+    "occurrence_count": 18,
+    "source_count": 18,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "_.txt",
+      "a.txt",
+      "b.txt",
+      "e.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "r.txt",
+      "s.txt",
+      "w.txt",
+      "z.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline o4-mini: (biz_no_browse)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline o4-mini: (biz_no_browse_with_canvas)",
+    "normalized_name": "mainline o4-mini: (biz_no_browse_with_canvas)",
+    "occurrence_count": 22,
+    "source_count": 22,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "_.txt",
+      "a.txt",
+      "b.txt",
+      "c.txt",
+      "e.txt",
+      "h.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "r.txt",
+      "s.txt",
+      "t.txt",
+      "v.txt",
+      "w.txt",
+      "z.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline o4-mini: (biz_no_browse_with_canvas)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline o4-mini: (biz_with_canvas)",
+    "normalized_name": "mainline o4-mini: (biz_with_canvas)",
+    "occurrence_count": 21,
+    "source_count": 21,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "_.txt",
+      "a.txt",
+      "b.txt",
+      "c.txt",
+      "e.txt",
+      "h.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "s.txt",
+      "t.txt",
+      "v.txt",
+      "w.txt",
+      "z.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline o4-mini: (biz_with_canvas)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline o4-mini: (paid)",
+    "normalized_name": "mainline o4-mini: (paid)",
+    "occurrence_count": 15,
+    "source_count": 15,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "a.txt",
+      "d.txt",
+      "e.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline o4-mini: (paid)"
+    ],
+    "has_submenu": false
+  },
+  {
+    "name": "mainline o4-mini: (pro)",
+    "normalized_name": "mainline o4-mini: (pro)",
+    "occurrence_count": 15,
+    "source_count": 15,
+    "source_files": [
+      "(.txt",
+      ").txt",
+      "-.txt",
+      "4.txt",
+      "a.txt",
+      "e.txt",
+      "i.txt",
+      "l.txt",
+      "m.txt",
+      "n.txt",
+      "o.txt",
+      "p.txt",
+      "q.txt",
+      "r.txt",
+      "冒号.txt"
+    ],
+    "badges": [
+      "mainline"
+    ],
+    "kinds": [
+      "model"
+    ],
+    "roles": [
+      "menuitemradio"
+    ],
+    "raw_names": [
+      "mainline o4-mini: (pro)"
+    ],
+    "has_submenu": false
+  }
+]

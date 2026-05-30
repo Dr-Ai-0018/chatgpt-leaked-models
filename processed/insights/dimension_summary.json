@@ -1,0 +1,283 @@
+{
+  "total": 1638,
+  "kind": {
+    "model": 1439,
+    "research_artifact": 123,
+    "deploy_slot": 76
+  },
+  "generation": {
+    "(none)": 1142,
+    "gpt-5.3": 244,
+    "gpt-5.5": 98,
+    "gpt-5.2": 37,
+    "gpt-4o": 33,
+    "gpt-5.4": 32,
+    "o3": 14,
+    "o1": 13,
+    "legacy-gpt-3": 10,
+    "gpt-4": 6,
+    "o4": 6,
+    "gpt-5.1": 2,
+    "gpt-4.5": 1
+  },
+  "codename": {
+    "(none)": 1169,
+    "big_dipper": 97,
+    "andromeda": 77,
+    "thinky": 52,
+    "lupo": 51,
+    "paragen": 50,
+    "spmini": 37,
+    "sonicberry": 26,
+    "bidi": 25,
+    "sonic": 14,
+    "blender": 14,
+    "spud": 9,
+    "feather": 7,
+    "garlic": 5,
+    "elk": 4,
+    "orion": 1
+  },
+  "arm_role": {
+    "(none)": 1455,
+    "control": 99,
+    "treatment": 55,
+    "production": 23,
+    "default": 4,
+    "baseline": 1,
+    "sideline": 1
+  },
+  "personality_trait": {
+    "conversational": {
+      "more": 5,
+      "less": 5
+    },
+    "empathetic": {
+      "less": 4,
+      "more": 4
+    },
+    "supportive": {
+      "more": 4,
+      "less": 4
+    },
+    "practical": {
+      "more": 4,
+      "less": 4
+    },
+    "optimistic": {
+      "more": 4,
+      "less": 4
+    },
+    "dismissive": {
+      "more": 4,
+      "less": 4
+    },
+    "prose_structure": {
+      "more": 4,
+      "less": 4
+    },
+    "literal": {
+      "more": 4,
+      "less": 4
+    },
+    "idiomatic": {
+      "more": 4,
+      "less": 4
+    },
+    "simple": {
+      "more": 4,
+      "less": 4
+    },
+    "analytical": {
+      "more": 4,
+      "less": 4
+    },
+    "didactic": {
+      "more": 4,
+      "less": 3
+    },
+    "dispassionate": {
+      "more": 4,
+      "less": 3
+    },
+    "ironic": {
+      "more": 3,
+      "less": 3
+    },
+    "obsequious": {
+      "more": 3,
+      "less": 3
+    },
+    "critical": {
+      "more": 3,
+      "less": 3
+    },
+    "markdown_structure": {
+      "more": 3,
+      "less": 3
+    },
+    "confident": {
+      "more": 3,
+      "less": 3
+    },
+    "friendly": {
+      "more": 3,
+      "less": 3
+    },
+    "curious": {
+      "more": 3,
+      "less": 3
+    },
+    "serious": {
+      "more": 3,
+      "less": 3
+    },
+    "expository": {
+      "more": 3,
+      "less": 3
+    },
+    "direct": {
+      "more": 3,
+      "less": 3
+    },
+    "emoji_use": {
+      "more": 3,
+      "less": 3
+    },
+    "succinct": {
+      "more": 3,
+      "less": 3
+    },
+    "agreeable": {
+      "more": 2,
+      "less": 2
+    }
+  },
+  "tiers": {
+    "(none)": 753,
+    "paid": 423,
+    "unpaid": 238,
+    "free": 112,
+    "pro": 57,
+    "biz": 40,
+    "no_auth": 19,
+    "plus": 2
+  },
+  "capabilities": {
+    "(none)": 1184,
+    "search": 139,
+    "genui": 54,
+    "personality": 44,
+    "artifacts": 42,
+    "reasoning": 34,
+    "image": 34,
+    "subagent": 28,
+    "tools": 28,
+    "entity": 27,
+    "canvas": 20,
+    "multilingual": 19,
+    "memory": 15,
+    "shopping": 9,
+    "code": 5,
+    "voice": 3,
+    "automations": 3,
+    "math": 2
+  },
+  "compute_hint": {
+    "(none)": 1507,
+    "thinking": 60,
+    "thinky": 48,
+    "juice": 17,
+    "heap": 7,
+    "nopctx": 2
+  },
+  "juice_level": {
+    "(none)": 1579,
+    "8": 26,
+    "4": 11,
+    "5": 6,
+    "32": 4,
+    "16": 3,
+    "64": 3,
+    "96": 2,
+    "2": 2,
+    "768": 1,
+    "128": 1
+  },
+  "trait_category": {
+    "(none)": 1458,
+    "cognitive": 62,
+    "expressive": 50,
+    "emotional": 48,
+    "format": 20
+  },
+  "date_tag": {
+    "(none)": 1371,
+    "??-05": 113,
+    "??-04": 35,
+    "??-02": 23,
+    "2026-05": 14,
+    "??-03": 13,
+    "2026-02": 11,
+    "2026-01": 10,
+    "??-10": 10,
+    "??-11": 9,
+    "??-09": 7,
+    "??-12": 6,
+    "2026-03": 5,
+    "2026-04": 5,
+    "2025-12": 1,
+    "2025-08": 1,
+    "2025-03": 1,
+    "??-07": 1,
+    "??-01": 1,
+    "2025-07": 1
+  },
+  "is_campaign": {
+    "false": 1106,
+    "true": 532
+  },
+  "is_mainline": {
+    "false": 1562,
+    "true": 76
+  },
+  "deploy_variant": {
+    "(none)": 1550,
+    "biz_no_browse_with_canvas": 9,
+    "biz_with_canvas": 9,
+    "paid": 9,
+    "pro": 9,
+    "biz": 8,
+    "biz_no_browse": 8,
+    "unpaid": 4,
+    "no_auth": 3,
+    "no_auth_apple_punch_out": 3,
+    "no_auth_no_tools": 3,
+    "no_auth_search": 2,
+    "12/18": 1,
+    "v2": 1,
+    "gpt 5.2 thinking": 1,
+    "mar 24": 1,
+    "10/15": 1,
+    "no parrot": 1,
+    "ppo step 1150": 1,
+    "ppo step 900": 1,
+    "chat": 1,
+    "high": 1,
+    "crz": 1,
+    "allis 210": 1,
+    "2026-02-19 export": 1,
+    "elk 1": 1,
+    "4o entry point": 1,
+    "lab-first shopping": 1,
+    "product cards": 1,
+    "youtube index": 1,
+    "2026-02-23 export": 1,
+    "ppo step 300": 1,
+    "s850": 1
+  },
+  "has_checkpoint": {
+    "yes": 122,
+    "no": 1516
+  }
+}
