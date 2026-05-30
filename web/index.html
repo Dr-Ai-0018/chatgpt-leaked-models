@@ -1108,9 +1108,9 @@ function _bSunFull(ch,d){
   ch.setOption({tooltip:{...baseTip,formatter:p=>`${p.name}<br/>${p.value} 条`},
     series:[{type:"sunburst",data:Object.values(tree).map(conv).sort((a,b)=>b.value-a.value),radius:["8%","88%"],sort:"desc",nodeClick:"rootToNode",
       emphasis:{focus:"ancestor"},
-      levels:[{},{r0:"8%",r:"30%",label:{fontSize:12,color:"#bdf3d6",fontFamily:"JetBrains Mono"},itemStyle:{borderWidth:2,borderColor:"#04090c"}},
-        {r0:"30%",r:"56%",label:{fontSize:10,color:"#7fcfa8",fontFamily:"JetBrains Mono"},itemStyle:{borderWidth:1.5,borderColor:"#04090c"}},
-        {r0:"56%",r:"88%",label:{fontSize:9,color:"#6aa98c",fontFamily:"JetBrains Mono"},itemStyle:{borderWidth:1,borderColor:"#04090c"}}]}]});
+      levels:[{},{r0:"8%",r:"30%",label:{fontSize:13,fontWeight:"bold",color:"#fff",fontFamily:"JetBrains Mono",textShadowColor:"rgba(0,0,0,.8)",textShadowBlur:4},itemStyle:{borderWidth:2,borderColor:"#04090c"}},
+        {r0:"30%",r:"56%",label:{fontSize:11,fontWeight:"bold",color:"#e8ffef",fontFamily:"JetBrains Mono",textShadowColor:"rgba(0,0,0,.7)",textShadowBlur:3},itemStyle:{borderWidth:1.5,borderColor:"#04090c"}},
+        {r0:"56%",r:"88%",label:{fontSize:10,fontWeight:"bold",color:"#d0ffe0",fontFamily:"JetBrains Mono",textShadowColor:"rgba(0,0,0,.7)",textShadowBlur:3},itemStyle:{borderWidth:1,borderColor:"#04090c"}}]}]});
 }
 function _bSankeyFull(ch,d){
   const cross=d.cross.gen_x_codename||[];if(!cross.length)return;
